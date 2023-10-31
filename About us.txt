@@ -1,0 +1,53 @@
+About Us
+Welcome to Aspiring Tech Pte Ltd, the team behind the innovative ride-hailing app that aims to transform the way people commute. Our mission is to create apps that add value to users' lives and provide them with seamless and convenient transportation solutions.
+
+Our Values
+Customer-Centric Approach
+Our customers are at the heart of everything we do. We prioritize their needs and satisfaction, continuously working to enhance their ride-hailing experience.
+
+Innovation
+We embrace the latest technologies and innovation to bring efficiency and convenience to the transportation industry. We are constantly exploring new ways to improve our app and provide cutting-edge features.
+
+Reliability
+We strive to deliver a reliable service, ensuring that riders can rely on us for timely pickups and safe journeys, every time they use our app.
+
+Safety
+Safety is our top priority. We implement strict safety measures, including driver verification and real-time tracking, to ensure the well-being of our riders and drivers throughout their journey.
+
+Transparency
+We believe in fostering transparency in our operations. We provide clear information about fares, trip details, and driver ratings, empowering our customers to make informed decisions.
+
+Respect and Fairness
+We promote a culture of respect and fairness. We treat our riders and drivers with dignity, fairness, and courtesy in every interaction.
+
+Environmental Responsibility
+We are committed to environmental responsibility. By encouraging ride-sharing and reducing unnecessary trips, we contribute to minimizing traffic congestion and reducing the carbon footprint.
+
+Our Unique Selling Points
+Save Time for Both Riders and Drivers
+With our app, riders no longer need to wait on the roadside for a taxi or ride. By simply requesting a ride through the app, they gain full visibility of their ride request and can track their driver's location in real time. Similarly, drivers no longer need to wander unnecessarily searching for passengers. They can simply wait for ride requests and hit the road, maximizing their efficiency.
+
+Ease Traffic Congestion
+By facilitating efficient ride allocation, we contribute to reducing unnecessary traffic congestion on the roads, making the overall commuting experience smoother for everyone.
+
+Safety and Flexibility
+We prioritize the safety of both our riders and drivers. Our app incorporates driver verification and real-time tracking features to ensure secure rides. We also provide flexibility for drivers to update their availability status and rest when needed.
+
+Professional Service
+We are committed to providing a professional and reliable service. Our drivers are trained to deliver exceptional customer experiences, ensuring that each ride is comfortable and enjoyable.
+
+Convenient and Cashless Option
+Our app offers a seamless and cashless payment option for riders, adding convenience and eliminating the need for cash transactions. Riders can choose to pay through the app or opt for cash payment if preferred.
+
+How It Works
+Sign Up and Login: Riders and drivers can easily sign up and create their accounts through the app using their mobile numbers and OTP verification.
+Request a Ride: Riders open the app, search for their destination location, and request a ride. The app displays a route from their current location to the destination.
+Choose a Driver: The app presents a list of nearby drivers to choose from. Riders can review driver profiles, ratings, and vehicle information to make an informed decision.
+Driver Accepts the Ride: Once the rider selects a driver, the driver receives a ride request notification. If the driver accepts the request, the rider is notified that the driver is on the way.
+Track the Driver: Riders can track the driver's location in real time as they approach the pickup location. The app provides an estimated time of arrival for added convenience.
+Start the Ride: Once the driver arrives, the rider is notified, and they can comfortably get in the taxi.
+Real-Time Updates: Throughout the ride, both the rider and driver can track their progress on the map. The app displays the updated location, and the estimated time of arrival is continually updated.
+Payment Options: At the end of the ride, the rider pays the driver the fare amount shown on the taxi meter. Our app offers cashless payment options as well, allowing riders to pay conveniently through the app or choose cash payment if preferred.
+Rate the Trip: After the ride, the rider has the option to rate the driver and provide feedback, helping us maintain high service standards.
+Contact Us
+For FC Rider and FC Driver app support, please contact us at support@aspiringtech.online
